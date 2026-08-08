@@ -14,21 +14,21 @@ The Advanced Design Project is a University of Birmingham module where a team ac
 
 I was voted team lead, responsible for organising the team and managing development.
 
-![Robotic waiter chassis CAD](/Assets/Images/Robotic Waiter/robotic-waiter-cad-full.png)
+![Robotic waiter chassis CAD](/Assets/Images/RoboticWaiter/Fully_assembly_Fusion.png)
 *Full chassis assembly in Fusion 360.*
 
 #### My Role
 
 Beyond running the team — assigning tasks by skillset, chairing weekly progress reviews against milestones — I worked hands-on in the physical build, across mechanical, electrical, and control systems. On the locomotion side, I started with BLDC motors running closed-loop PID, then moved the design over to stepper motors partway through development as the requirements became clearer.
 
-![Motor mount CAD render]({{ "/assets/images/projects/robotic-waiter-teaser.png" | relative_url }})
+![Motor mount CAD render](/Assets/Images/RoboticWaiter/Motor_mount_render.png)
 *Custom motor mount design.*
 
 #### What Actually Happened
 
 The robot partially worked by presentation day — some parts failed shortly before we presented. The root cause wasn't any single subsystem: each part worked reasonably well on its own, but integration issues only surfaced once everything came together, and by then we were out of runway to fully resolve them. That's a time management lesson as much as a technical one — building in a dedicated integration-and-hardening phase well before the deadline, rather than treating integration as the last step, is what I'd change next time.
 
-![Physical robot build in the workshop]({{ "/assets/images/projects/robotic-waiter-build.jpg" | relative_url }})
+![Physical robot build in the workshop](/Assets/Images/RoboticWaiter/Chassis_build_progress_waiter_1.jpeg)
 *The chassis mid-build in the workshop.*
 
 #### What I Learned
@@ -47,7 +47,7 @@ Team leadership · Motor control (closed-loop PID, stepper motors) · CAD design
 
 My final year research project investigated applying **Field-Oriented Control (FOC)** directly to the traction control loop of a railway locomotive, aiming to improve efficiency and handling over conventional control approaches. The project ran over 6 months and combined control-theory research with a physical prototype used to collect real test data.
 
-![FOC railway locomotive prototype CAD]({{ "/assets/images/projects/foc-railway-teaser.png" | relative_url }})
+![FOC railway locomotive prototype CAD](/Assets/Images/FOCRailway/FOC_CAD.png)
 *Prototype locomotive design — MOSFET driver board and traction motor mounted on a scale rail chassis.*
 
 #### Why FOC on a Traction Loop
@@ -58,7 +58,7 @@ Traditional traction control on locomotives typically doesn't get the same preci
 
 I designed and built a physical prototype to test the theory against real hardware rather than simulation alone — a scale locomotive chassis with a MOSFET driver stage, running on rail track, instrumented to collect performance data.
 
-![FOC hardware prototype on breadboard]({{ "/assets/images/projects/foc-railway-prototype.jpg" | relative_url }})
+![FOC hardware prototype on breadboard](/Assets/Images/FOCRailway/FOC_prototyping_1.jpeg)
 *Early hardware iteration — motor driver board, gear-coupled BLDC motor, and breadboard control electronics.*
 
 #### Outcome
@@ -81,14 +81,14 @@ Field-Oriented Control · Three-phase BLDC motor control · Control system resea
 
 This was a large-scale engineering design module — around 40 students across multiple engineering disciplines, working in one team on a single brief: **healthcare in a conflict zone**. Our team's solution was a portable hospital, and as the Electrical and Mechatronic subgroup, we were responsible for the systems inside it. We chose an air purification unit as our physical prototype, built and tested on a £100 budget within a 3-month window.
 
-![Finished air purification unit]({{ "/assets/images/projects/air-purifier-teaser.jpg" | relative_url }})
+![Finished air purification unit](/Assets/Images/AirFiltration/Finished_air_filter_1.jpeg)
 *The finished three-stage filtration unit — HEPA, activated carbon, and MERV filters, each independently removable.*
 
 #### My Contribution
 
 I worked on the intake CAD for the system and on the open-loop motor control that drives the fan.
 
-![Air purifier CAD, exploded view]({{ "/assets/images/projects/air-purifier-cad.png" | relative_url }})
+![Air purifier CAD, exploded view](/Assets/Images/AirFiltration/Cad_render_cut_filter.png)
 *Filter-stage CAD — removable HEPA, activated carbon, and MERV cartridges.*
 
 #### System Design
@@ -101,7 +101,7 @@ Air passes through three filter stages in sequence, each targeting a different p
 
 A pair of onboard sensors feeds live readings back to a monitoring dashboard, tracking particulate concentration by size, mass concentration, VOCs, CO2, NO2, temperature, and humidity — giving a real Indoor Air Quality Index rather than a guess at filter performance.
 
-![Live sensor dashboard readout]({{ "/assets/images/projects/air-purifier-sensor-data.jpg" | relative_url }})
+![Live sensor dashboard readout](/Assets/Images/AirFiltration/Sensor_read_filter.jpeg)
 *Live dashboard: particulate counts by size, VOC/CO2 estimates, and an Indoor Air Quality Index reading of 1 (clean air) after filtration.*
 
 #### Testing
@@ -127,7 +127,7 @@ CAD design · Open-loop motor control · Sensor integration · Air quality monit
 
 Eurobot is an international competition where teams build an autonomous robot to complete tasks that change every year. Alongside the main robot, teams also field smaller, simpler robots for the match called **SIMAs** (Small Independent Mobile Actuators). I worked mainly on the CAD for our SIMAs, making sure every design stayed within competition rules — on a 2-week timeline with no fixed budget.
 
-![SIMA CAD design]({{ "/assets/images/projects/eurobot-sima-teaser.png" | relative_url }})
+![SIMA CAD design](/Assets/Images/EurobotSIMAs/CAD_SIMAs.png)
 *SIMA design — compact drivetrain with onboard e-stop and control electronics.*
 
 #### Design Constraints
@@ -140,7 +140,7 @@ The team set tight internal requirements on top of the competition rules:
 
 #### Build
 
-![Two SIMAs built and on the workbench]({{ "/assets/images/projects/eurobot-sima-build.jpg" | relative_url }})
+![Two SIMAs built and on the workbench](/Assets/Images/EurobotSIMAs/Built_SIMA_1.jpeg)
 *Two SIMAs on the workbench, showing the e-stop buttons and battery mounting.*
 
 #### Outcome
