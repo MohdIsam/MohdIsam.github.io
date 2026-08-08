@@ -14,7 +14,7 @@ The Advanced Design Project is a University of Birmingham module where a team ac
 
 I was voted team lead, responsible for organising the team and managing development.
 
-![Robotic waiter chassis CAD](/Assets/Images/RoboticWaiter/Fully_assembly_Fusion.png)
+![Robotic waiter chassis CAD](/Assets/Images/RoboticWaiter/Fully_assembly_Fusion.PNG)
 *Full chassis assembly in Fusion 360.*
 
 #### My Role
@@ -127,7 +127,7 @@ CAD design · Open-loop motor control · Sensor integration · Air quality monit
 
 Eurobot is an international competition where teams build an autonomous robot to complete tasks that change every year. Alongside the main robot, teams also field smaller, simpler robots for the match called **SIMAs** (Small Independent Mobile Actuators). I worked mainly on the CAD for our SIMAs, making sure every design stayed within competition rules — on a 2-week timeline with no fixed budget.
 
-![SIMA CAD design](/Assets/Images/EurobotSIMAs/CAD_SIMAs.png)
+![SIMA CAD design](/Assets/Images/EurobotSIMAs/CAD_SIMAs.PNG)
 *SIMA design — compact drivetrain with onboard e-stop and control electronics.*
 
 #### Design Constraints
