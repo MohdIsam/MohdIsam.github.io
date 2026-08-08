@@ -14,7 +14,7 @@ The Advanced Design Project is a University of Birmingham module where a team ac
 
 I was voted team lead, responsible for organising the team and managing development.
 
-![Robotic waiter chassis CAD](/assets/images/RoboticsWaiter/robotic-waiter-cad-full.png)
+![Robotic waiter chassis CAD](/Assets/Images/Robotic Waiter/robotic-waiter-cad-full.png)
 *Full chassis assembly in Fusion 360.*
 
 #### My Role
